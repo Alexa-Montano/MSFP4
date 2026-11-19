@@ -95,7 +95,7 @@ La práctica integra contenidos correspondientes a las unidades de la asignatura
 
 A continuación se ilustra el esquema del modelo fisiológico comparando la condición **Control** (individuo sano) y **Caso** (paciente). El diagrama detalla la analogía entre los procesos biológicos del sistema endócrino (secreción, transporte y absorción en el tejido diana) y los componentes eléctricos equivalentes ($R_1, C, L, R_2$):
 
-![Diagrama fisiológico del sistema endócrino](SistemaEndocrinoBIORENDER.png)
+![Diagrama fisiológico del sistema endócrino](Biorender_Endocrino.jpeg)
 
 ### Topología del circuito equivalente
 
@@ -227,19 +227,23 @@ Se realizó el montaje en protoboard de los circuitos correspondientes a **Contr
 
 [Volver al contenido](#contenido)
 
+
 ## Resultados y verificación cruzada
 
-A continuación se listan las evidencias de las distintas implementaciones y simulaciones del sistema:
+A continuación se presentan las evidencias de las distintas implementaciones, simulaciones y análisis realizados durante la práctica:
 
-| Plataforma / Escenario | Evidencia generada | 
-| ----- | ----- | 
-| **Análisis Matemático (Manual)** | [`AnalisisMatematicoP4.pdf`](AnalisisMatematicoP4.pdf) | 
-| **MATLAB / Simulink** | \[`Control y caso.matlab.pdf`\](Control\\ y\\ caso.matlab.pdf) | 
-| **Sintonización PID**  
-| **Python** | [`Control_caso_python4.pdf`](Control_caso_python4.pdf) | 
-| **Laboratorio (Osciloscopio)** | [`ControlCaso_Lab.png`](ControlCaso_Lab.png) | 
+| Plataforma / Escenario | Evidencia generada |
+| ----- | ----- |
+| **Análisis matemático** | [MSF_Analisis_Practica Endocrino.pdf](MSF_Analisis_Practica%20Endocrino.pdf) |
+| **MATLAB / Simulink** | [Montano23212215_MSFP4.mlx](Montano23212215_MSFP4.mlx) |
+| **Modelo de Simulink** | [Practica_Endocrino.slx](Practica_Endocrino.slx) |
+| **Reporte de la práctica** | [Montano23212215_MSFP4.pdf](Montano23212215_MSFP4.pdf) |
+| **Reproducción en Python** | [Montano23212215_MSFP4.py](Montano23212215_MSFP4.py) |
+| **Resultados gráficos** | [Figure_1.png](Figure_1.png) |
+| **Laboratorio** | [Grafica_Lab.jpeg](Grafica_Lab.jpeg) |
 
 [Volver al contenido](#contenido)
+
 
 ## Flujo de trabajo
 
