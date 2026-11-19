@@ -304,24 +304,24 @@ flowchart TD
 
 [Volver al contenido](#contenido)
 
+
 ## Estructura del repositorio
 
-```
+```text
 .
-├── MSF_Analisis_Practica Endocrino.pdf
+├── Biorender_Endocrino.jpeg
 ├── CITATION.cff
-├── Control_caso_python4.pdf
-├── Control y caso.matlab.pdf
-├── ControlCaso_Lab.png
+├── Figure_1.png
+├── Grafica_Lab.jpeg
 ├── LICENSE
-├── Practica_Endocrino.slx
-├── README.md
-├── SistemaEndocrinoBIORENDER.png
+├── MSF_Analisis_Practica Endocrino.pdf
 ├── Montano23212215_MSFP4.mlx
 ├── Montano23212215_MSFP4.pdf
-└── Montano23212215_MSFP4.py
-
+├── Montano23212215_MSFP4.py
+├── Practica_Endocrino.slx
+└── README.md
 ```
+
 
 [Volver al contenido](#contenido)
 
